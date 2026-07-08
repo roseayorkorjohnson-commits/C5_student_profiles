@@ -65,7 +65,7 @@ Once your card looks good and your image displays correctly in your browser, sub
    ```
 2. Commit your changes:
    ```bash
-   git commit -m "Add Profile Card for [Your Name]"
+   git commit -m "Added Profile Card for [Your Name]"
    ```
 3. Push the changes to your GitHub fork:
    ```bash
